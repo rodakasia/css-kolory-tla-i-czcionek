@@ -1,0 +1,33 @@
+h1{
+    background-color: aqua;
+}
+h2{
+    background-color: greenyellow;
+}
+h2+p{
+    background-color: green;
+}
+p{
+    background-color: blue;
+}
+li{
+    background-color: grey;
+}
+body{
+    background-color: gold;
+}
+#popierwsze{
+    color: fuchsia;
+}
+#podrugie{
+    color: plum;
+}
+#potrzecie{
+    color: palevioletred;
+}
+#poczwarte{
+    color: orangered;
+}
+#popiate{
+    color: orange;
+}
